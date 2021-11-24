@@ -13,12 +13,12 @@ Config.okokB = true -- bill system setup! true for okokBilling, false for esx_bi
 
 -----------------------LOCALES-----------------------
 -----------------------------------------------------
-Config.HeaderText = "🎫Write A Ticket"
-Config.RegPlateText = "🚗Registration Plate"
-Config.Notes = "🖊️Notes"
-Config.billAmount = "💸Price"
+Config.HeaderText = "🎫Skriv En Böter"
+Config.RegPlateText = "🚗Registrering Skylt"
+Config.Notes = "🖊️Anteckningar"
+Config.billAmount = "💸Pris"
 Config.InvalidInputs = "Make sure both inputs are valid."
 
-Config.YouSentBill = "You sent a bill!"
-Config.NoOwner = "No owner found for that plate.."
-Config.Billreceived = "New bill received."
+Config.YouSentBill = "Du Skickade En Böter!"
+Config.NoOwner = "Ingen Ägare Hittad På Den Registrerings Skylten .."
+Config.Billreceived = "Ny Böter Mottagen."
